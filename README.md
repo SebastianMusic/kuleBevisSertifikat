@@ -20,3 +20,7 @@ Formatet er som følger.
     - [Regler for jaktutøvelse](https://www.njff.no/jakt/regler-for-jaktutovelse)
     - [Norges Jeger- og Fiskerforbund](https://www.njff.no/jegerproven)
 
+## S
+* Smikurs
+  - Pris: 4500 kr utenom reisekostnader
+  - [Kurs](https://loensmed.no/kurs)
